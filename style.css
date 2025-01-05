@@ -38,11 +38,11 @@ body {
 	position: absolute;
 	bottom: 2%;
 	text-align: center;
-	padding: 5%;
 
 	@media screen and (max-width: 768px) {
 		top: 5%;
 		bottom: none;
+		padding: 2%;
 	}
 }
 
