@@ -37,6 +37,11 @@ body {
 .container-name {
 	position: absolute;
 	bottom: 2%;
+
+	@media screen and (max-width: 768px) {
+		top: 5%;
+		bottom: none;
+	}
 }
 
 @keyframes text-color-change {
