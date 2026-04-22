@@ -7,13 +7,10 @@ document.addEventListener("DOMContentLoaded", () => {
 	};
 
 	const phrases = [
-		"Eres la mejor Enfermera 🐈‍⬛",
-		"Estefanía, eres maravillosa 🌹",
-		"Siempre estaré para ti 💫",
+		"Animo con tu trabajoooo 💻💗 ",
+		"Sigue así, vas super bien Fauu 👏🏼",
 		"Puedes con todooo 💪🏼",
-		"Leona licenciada oficial 🦁",
-		"Te quiero mucho 💕",
-		"Te mereces toditooo 🌟",
+		"Fau, eres lo máximo 🥳💖 ",
 	];
 
 	const title = document.getElementById("title");
